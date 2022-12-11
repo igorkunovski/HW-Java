@@ -1,0 +1,57 @@
+dets 11, 2022 6:33:00 PM Hw2Ex2 bubbleSorted
+INFO: [7, 9, 12, 2, 58, -4, 5, 3, 17]
+dets 11, 2022 6:33:00 PM Hw2Ex2 bubbleSorted
+INFO: [7, 9, 2, 12, -4, 5, 3, 17, 58]
+dets 11, 2022 6:33:00 PM Hw2Ex2 bubbleSorted
+INFO: [7, 2, 9, -4, 5, 3, 12, 17, 58]
+dets 11, 2022 6:33:00 PM Hw2Ex2 bubbleSorted
+INFO: [2, 7, -4, 5, 3, 9, 12, 17, 58]
+dets 11, 2022 6:33:00 PM Hw2Ex2 bubbleSorted
+INFO: [2, -4, 5, 3, 7, 9, 12, 17, 58]
+dets 11, 2022 6:33:00 PM Hw2Ex2 bubbleSorted
+INFO: [-4, 2, 3, 5, 7, 9, 12, 17, 58]
+dets 11, 2022 6:33:00 PM Hw2Ex2 bubbleSorted
+INFO: [-4, 2, 3, 5, 7, 9, 12, 17, 58]
+dets 11, 2022 6:33:00 PM Hw2Ex2 bubbleSorted
+INFO: [-4, 2, 3, 5, 7, 9, 12, 17, 58]
+dets 11, 2022 6:33:00 PM Hw2Ex2 bubbleSorted
+INFO:   **end** 
+
+dets 11, 2022 6:35:09 PM Hw2Ex2 bubbleSorted
+INFO: [5, 9, -12, 2, 58, -4, -5, 3, 17]
+dets 11, 2022 6:35:10 PM Hw2Ex2 bubbleSorted
+INFO: [5, -12, 2, 9, -4, -5, 3, 17, 58]
+dets 11, 2022 6:35:10 PM Hw2Ex2 bubbleSorted
+INFO: [-12, 2, 5, -4, -5, 3, 9, 17, 58]
+dets 11, 2022 6:35:10 PM Hw2Ex2 bubbleSorted
+INFO: [-12, 2, -4, -5, 3, 5, 9, 17, 58]
+dets 11, 2022 6:35:10 PM Hw2Ex2 bubbleSorted
+INFO: [-12, -4, -5, 2, 3, 5, 9, 17, 58]
+dets 11, 2022 6:35:10 PM Hw2Ex2 bubbleSorted
+INFO: [-12, -5, -4, 2, 3, 5, 9, 17, 58]
+dets 11, 2022 6:35:10 PM Hw2Ex2 bubbleSorted
+INFO: [-12, -5, -4, 2, 3, 5, 9, 17, 58]
+dets 11, 2022 6:35:10 PM Hw2Ex2 bubbleSorted
+INFO: [-12, -5, -4, 2, 3, 5, 9, 17, 58]
+dets 11, 2022 6:35:10 PM Hw2Ex2 bubbleSorted
+INFO:   **end** 
+
+dets 11, 2022 6:48:03 PM Hw2Ex2 bubbleSorted
+INFO: [5, 9, -12, 2, 58, -4, -5, 3, 17]
+dets 11, 2022 6:48:03 PM Hw2Ex2 bubbleSorted
+INFO: [5, -12, 2, 9, -4, -5, 3, 17, 58]
+dets 11, 2022 6:48:03 PM Hw2Ex2 bubbleSorted
+INFO: [-12, 2, 5, -4, -5, 3, 9, 17, 58]
+dets 11, 2022 6:48:03 PM Hw2Ex2 bubbleSorted
+INFO: [-12, 2, -4, -5, 3, 5, 9, 17, 58]
+dets 11, 2022 6:48:03 PM Hw2Ex2 bubbleSorted
+INFO: [-12, -4, -5, 2, 3, 5, 9, 17, 58]
+dets 11, 2022 6:48:03 PM Hw2Ex2 bubbleSorted
+INFO: [-12, -5, -4, 2, 3, 5, 9, 17, 58]
+dets 11, 2022 6:48:03 PM Hw2Ex2 bubbleSorted
+INFO: [-12, -5, -4, 2, 3, 5, 9, 17, 58]
+dets 11, 2022 6:48:03 PM Hw2Ex2 bubbleSorted
+INFO: [-12, -5, -4, 2, 3, 5, 9, 17, 58]
+dets 11, 2022 6:48:03 PM Hw2Ex2 bubbleSorted
+INFO:   **end** 
+
