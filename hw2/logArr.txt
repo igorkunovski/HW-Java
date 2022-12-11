@@ -55,3 +55,22 @@ INFO: [-12, -5, -4, 2, 3, 5, 9, 17, 58]
 dets 11, 2022 6:48:03 PM Hw2Ex2 bubbleSorted
 INFO:   **end** 
 
+dets 11, 2022 6:58:29 PM Hw2Ex2 bubbleSorted
+INFO: [5, 9, -12, 2, 58, -4, -5, 3, 17]
+dets 11, 2022 6:58:29 PM Hw2Ex2 bubbleSorted
+INFO: [5, -12, 2, 9, -4, -5, 3, 17, 58]
+dets 11, 2022 6:58:29 PM Hw2Ex2 bubbleSorted
+INFO: [-12, 2, 5, -4, -5, 3, 9, 17, 58]
+dets 11, 2022 6:58:29 PM Hw2Ex2 bubbleSorted
+INFO: [-12, 2, -4, -5, 3, 5, 9, 17, 58]
+dets 11, 2022 6:58:29 PM Hw2Ex2 bubbleSorted
+INFO: [-12, -4, -5, 2, 3, 5, 9, 17, 58]
+dets 11, 2022 6:58:29 PM Hw2Ex2 bubbleSorted
+INFO: [-12, -5, -4, 2, 3, 5, 9, 17, 58]
+dets 11, 2022 6:58:29 PM Hw2Ex2 bubbleSorted
+INFO: [-12, -5, -4, 2, 3, 5, 9, 17, 58]
+dets 11, 2022 6:58:29 PM Hw2Ex2 bubbleSorted
+INFO: [-12, -5, -4, 2, 3, 5, 9, 17, 58]
+dets 11, 2022 6:58:29 PM Hw2Ex2 bubbleSorted
+INFO:   **end** 
+

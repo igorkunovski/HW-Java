@@ -1,0 +1,9 @@
+
+dets 11, 2022 7:19:36 PM Hw2Ex4 calculate
+INFO: Result: 2.0 + 2.0 = 4.0
+dets 11, 2022 7:22:44 PM Hw2Ex4 calculate
+WARNING: Result: 2.0 / 0.0 =  Division by zeo!
+dets 11, 2022 7:23:40 PM Hw2Ex4 calculate
+INFO: Result: 5.0 / 2.0 = 2.5
+dets 11, 2022 7:27:00 PM Hw2Ex4 calculate
+INFO: Result: 21.0 - 47.0 = -26.0
