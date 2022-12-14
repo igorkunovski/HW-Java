@@ -86,3 +86,10 @@ which is sorted. Next step is to built back smaller sorted arrays into full sort
 separate method. Using for-each loop for checking the non-odd numbers and add them to resulting arrayList. Iterator is
 not help full it this task, because we need to check and remove (or add to a new list) - 2 using of .next(). 
 
+**Ex3 (mandatory)** Given an integer ArrayList. Find the minimum, maximum and average from this list.
+**Solution:** as the rule for list is not strict I used randomly generated ArrayList of 20 Integers and build it in a
+separate method. Min and max are set to the first element of the arrayList. Using for-each loop I compare element 
+with maximum and if this is not new maximum then with minimum. And if one of them is true, min or max value is 
+updated. I need one round O(n) to get the result. There is also solution to use quick sort for this ArrayList and take 
+first and last elements, but it is O(n*log n).
+
