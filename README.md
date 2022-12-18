@@ -104,4 +104,17 @@ list of the one in the list.
 through the members of generated list and add these members to a new LinkedList from head. In the return the new 
 filled list is "flipped". 
 
+**Ex2 (mandatory)** Implement a queue using a LinkedList with the following methods:
+enqueue() - places an element at the end of the queue,
+dequeue() - returns the first element from the queue and removes it,
+first() - returns the first element from the queue without removing it.
 
+**Solution:** using available methods of LinkedList for our required methods.
+
+**Ex3 (not mandatory, advanced)** Add the ability to undo the last operation to the calculator.
+
+**Solution:** I used my simplest calculator program from previous homework. LinkedList is perfect tool for this 
+exercise, because we can add new items from Head, and remove from head and list keeps insertion order. 
+We don't need quick access to the middle elements. In the while cycle with the switch/case program reads command and
+acts accordingly. There are commands: calc - for calculation, log - for printing history of operations, remove - removes
+the last operation from the log, exit - terminates the while cycle and quits program.
