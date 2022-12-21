@@ -4,7 +4,6 @@
  */
 
 import java.util.*;
-import java.util.stream.Stream;
 
 public class Hw5Ex2 {
     public static void main(String[] args) {
