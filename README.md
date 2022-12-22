@@ -38,8 +38,8 @@ If this result is found - it is printed out.
 
 **Ex1 (mandatory)**
 
-**Task:** The sql query string "select * from students where" is given. Build the WHERE part of this query using StringBuilder.
-The data for filtering is given below as a json string.
+**Task:** The sql query string "select * from students where" is given. Build the WHERE part of this query using 
+tringBuilder.The data for filtering is given below as a json string.
 If the value is null, then the parameter should not be included in the request.
 Filtering parameters: {"name":"Ivanov", "country":"Russia", "city":"Moscow", "age":"null"}
 
@@ -118,3 +118,37 @@ exercise, because we can add new items from Head, and remove from head and list 
 We don't need quick access to the middle elements. In the while cycle with the switch/case program reads command and
 acts accordingly. There are commands: calc - for calculation, log - for printing history of operations, remove - removes
 the last operation from the log, exit - terminates the while cycle and quits program.
+
+## _**HW5**_
+
+**Ex1 (mandatory)**Implement a phone book structure using a HashMap considering that 1 person can have multiple phones.
+
+**Solution:** For this purpose I used HashMap <String, HashSet<Integer> collection with String as **key** and 
+HashSet of Integers as **values**. If we add same number to person, HashSet will ignore this addition. If inserted 
+Person exists in keys, new number will be added to set. 
+
+**Ex2 (mandatory)** Given a list of employees. Write a program to find and print duplicate names with
+the number of repetitions. Sort in descending order of popularity.
+
+**Solution:** First of all we build a Map with key - name, and value - number of repetition. As we have HashMap, 
+data is not sorted. Even using TreeMap will not help, because it is sorting data by keys. Fort this purpose I use 
+additionally LinkedHashMap and fill it up comparing data values. As LHM keeps insertion order, we'll get sorted by 
+values Map for the result. 
+
+From Java 8 there is Stream API function to arrange collection in necessary way. But This task does not suppose
+to the use this possibility.
+
+    Stream<Map.Entry<String, Integer>> sortedByValue = overlap.entrySet(). stream().sorted(Map.Entry.comparingByValue());
+    sortedByValue.forEach(System.out::println);
+
+**Ex3 (mandatory)** Implement the **HeapSort** algorithm.
+
+The performance of this algorithm is **O(n*log n)** in every scenario. Firstly we build binary tree from the list 
+where every parent has 2 children. First main parent is the list[0] elem, it's children: left: list[1], right: list[2] 
+and so on. After it is built - the idea is that every parent must be bigger than its children. The main parent must 
+become the largest item of tree. With every compare and swap data also migrate in the position number of the list.
+After the largest is found, its position list[0] - it is placed at the end of the list. Last item of the list 
+comes to the place of the main parent list[0] and finding new largest main parent starts from the beginning until 
+list is fully sorted.  
+
+**Ex4 (not mandatory, advanced)** Arrange 8 queens on a chessboard so that they do not hit each other.
